@@ -1,10 +1,10 @@
 ## 使用效果
 
-![](https://raw.githubusercontent.com/fei0810/image-host/master/img/20190914114547.gif)
+![WechatIMG494](img/WechatIMG494.jpeg)
 
-## 源文件
+## 使用
 
-markdown here github https://github.com/adam-p/markdown-here
+下载xpi格式文件，然后按照正常插件安装即可
 
 ## Zotero 插件制作
 
@@ -27,6 +27,8 @@ zip -r ./markdownhere4zotero.zip ./
 
 然后修改 `markdownhere4zotero.zip` 为 `markdownhere4zotero.xpi` 即可。
 
-## 使用
+## 源文件
 
-下载xpi格式文件，然后按照正常插件安装即可
+markdown here github https://github.com/adam-p/markdown-here
+
+markdown here zotero https://github.com/fei0810/markdownhere4zotero
